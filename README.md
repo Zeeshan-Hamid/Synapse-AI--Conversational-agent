@@ -39,8 +39,8 @@ graph TD
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/Zeeshan-Hamid/Synapse-AI--Conversational-agent
+    
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
