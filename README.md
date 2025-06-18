@@ -1,6 +1,6 @@
 # Real-Time AI Medical Assistant
 
-This project is a high-performance, real-time AI medical assistant that provides conversational medical advice. It leverages a powerful stack of cloud services to deliver an experience with latency as low as 300ms, rivaling platforms like ElevenLabs.
+This project is a high-performance, real-time AI medical assistant that provides conversational medical advice. It leverages a powerful stack of cloud services to deliver an experience with latency as low as 300ms, rivaling platforms like ElevenLabs Conversational AI.
 
 The application captures audio from the user's microphone, transcribes it to text in real-time, generates an intelligent response from a large language model, and synthesizes that response back into voice audio for the user.
 
