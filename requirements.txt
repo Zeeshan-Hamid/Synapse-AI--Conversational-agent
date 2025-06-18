@@ -1,0 +1,6 @@
+amazon-transcribe-streaming-sdk
+sounddevice
+groq
+boto3
+pygame
+numpy 
